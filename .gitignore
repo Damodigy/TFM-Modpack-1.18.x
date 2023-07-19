@@ -17,3 +17,5 @@ options.txt
 patchouli_data.json
 usercache.json
 usernamecache.json
+minecraftinstance.json
+.curseclient
