@@ -1,0 +1,528 @@
+[07:56:28] [main/INFO]: ModLauncher running: args [--username, SpeeeDCraft, --version, 1.18.2, --gameDir, D:\Games\Minecraft\ATLauncher\instances\TFM, --assetsDir, D:\Games\Minecraft\ATLauncher\assets, --assetIndex, 1.18, --uuid, 9d9c39ad4d3a4e6191c73d327f5dcf51, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --width=854, --height=480]
+[07:56:28] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[07:56:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/Games/Minecraft/ATLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[07:56:29] [main/INFO]: Found mod file architectury-4.11.93-forge.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file betterbiomeblend-1.18.2-1.3.5-forge.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file BetterF3-3.0.0-Forge-1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file canary-mc1.18.2-0.2.3.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file cloth-config-6.5.102-forge.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file ferritecore-4.2.2-forge.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file Jade-1.18.2-forge-5.2.6.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file JadeAddons-1.18.2-forge-2.5.0.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file jei-1.18.2-forge-10.2.1.1002.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file Ksyxis-Forge1.17-1.1.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file lazydfu-1.0-1.18.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file lightspeed-1.18.2-1.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file memoryleakfix-forge-1.17+-1.1.1.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file modernfix-forge-5.2.5+mc1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file oculus-mc1.18.2-1.6.4.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file open-parties-and-claims-forge-1.18.2-0.19.0.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file pluto-mc1.18.2-0.0.6.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file Reblured-1.18.2-1.2.0.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file rubidium-0.5.6.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file rubidium-extra-0.4.18+mc1.18.2-build.86.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file seaborgium-mc1.18.2-0.1.3b.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file smoothboot(reloaded)-mc1.18.2-0.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file starlight-1.0.2+forge.546ae87.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file TextruesRubidiumOptions-1.0.6-mc1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file Xaeros_Minimap_23.5.0_Forge_1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/INFO]: Found mod file XaerosWorldMap_1.30.6_Forge_1.18.2.jar of type MOD with provider {mods folder locator at D:\Games\Minecraft\ATLauncher\instances\TFM\mods}
+[07:56:29] [main/WARN]: Mod file D:\Games\Minecraft\ATLauncher\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.10\fmlcore-1.18.2-40.2.10.jar is missing mods.toml file
+[07:56:29] [main/WARN]: Mod file D:\Games\Minecraft\ATLauncher\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.10\javafmllanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[07:56:29] [main/WARN]: Mod file D:\Games\Minecraft\ATLauncher\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.10\lowcodelanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[07:56:29] [main/WARN]: Mod file D:\Games\Minecraft\ATLauncher\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.10\mclanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[07:56:29] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found mod file forge-1.18.2-40.2.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3f3c7bdb
+[07:56:29] [main/INFO]: Found 1 dependencies adding them to mods collection
+[07:56:29] [main/INFO]: Found mod file ColaMixinConfig-v1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6ff37443
+[07:56:30] [main/INFO]: Compatibility level set to JAVA_17
+[07:56:30] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[07:56:30] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.18.2, --gameDir, D:\Games\Minecraft\ATLauncher\instances\TFM, --assetsDir, D:\Games\Minecraft\ATLauncher\assets, --uuid, 9d9c39ad4d3a4e6191c73d327f5dcf51, --username, SpeeeDCraft, --assetIndex, 1.18, --accessToken, ????????, --userType, msa, --versionType, release, --width=854, --height=480]
+[07:56:30] [main/WARN]: Reference map 'seaborgium-forge-refmap.json' for forge-seaborgium.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:56:30] [main/WARN]: Reference map 'seaborgium-forge-refmap.json' for forge-seaborgium-compat-iris.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:56:30] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[07:56:30] [main/INFO]: Loaded configuration file for Rubidium: 28 options available, 1 override(s) found
+[07:56:30] [main/INFO]: Loaded configuration file for Sodium Extra: 30 options available, 0 override(s) found
+[07:56:30] [main/INFO]: Loaded configuration file for ModernFix: 57 options available, 2 override(s) found
+[07:56:30] [main/WARN]: Option 'mixin.bugfix.item_cache_flag' overriden (by mods [canary]) to 'false'
+[07:56:30] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[07:56:30] [main/INFO]: Applying Nashorn fix
+[07:56:30] [main/INFO]: Loaded configuration file for Canary: 124 options available, 1 override(s) found
+[07:56:30] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [oculus]) disables it and children
+[07:56:31] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ChunkMapMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [pluto]) disables it and children
+[07:56:32] [main/INFO]: [MemoryLeakFix] Will be applying 5 memory leak fixes!
+[07:56:32] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [tagKeyLeak, targetEntityLeak, entityMemoriesLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[07:56:33] [pool-4-thread-1/INFO]: ModernFix bootstrap
+[07:56:34] [pool-4-thread-1/INFO]: Vanilla bootstrap took 980 milliseconds
+[07:56:36] [Render thread/WARN]: Assets URL 'union:/D:/Games/Minecraft/ATLauncher/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2389!/assets/.mcassetsroot' uses unexpected schema
+[07:56:36] [Render thread/WARN]: Assets URL 'union:/D:/Games/Minecraft/ATLauncher/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2389!/data/.mcassetsroot' uses unexpected schema
+[07:56:36] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:56:36] [Render thread/INFO]: Setting user: SpeeeDCraft
+[07:56:36] [Render thread/INFO]: Bypassed Mojang DFU
+[07:56:36] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[07:56:37] [Render thread/INFO]: Debug functionality is disabled.
+[07:56:37] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[07:56:37] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[07:56:37] [Render thread/INFO]: Shaders are disabled
+[07:56:37] [modloading-worker-0/INFO]: Seaborgium is live!
+[07:56:37] [modloading-worker-0/INFO]: Loader detected: Forge
+[07:56:37] [modloading-worker-0/WARN]: Ksyxis will speedup your world loading. :P
+[07:56:37] [modloading-worker-0/WARN]: BUT IT MAY CAUSE ISSUES (INCLUDING COMPAT). DON'T ASK OTHER MODS' AUTHORS FOR COMPAT!
+[07:56:37] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[07:56:37] [modloading-worker-0/INFO]: [BetterF3] Loading...
+[07:56:37] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.10, for MC 1.18.2 with MCP 20220404.173914
+[07:56:37] [modloading-worker-0/INFO]: MinecraftForge v40.2.10 Initialized
+[07:56:37] [modloading-worker-0/INFO]: Otifine does not seem to be loaded, so no need to overwrite anything.
+[07:56:37] [modloading-worker-0/INFO]: [BetterF3] All done!
+[07:56:37] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[07:56:37] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[07:56:38] [Render thread/INFO]: Hardware information:
+[07:56:38] [Render thread/INFO]: CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700KF
+[07:56:38] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 2060/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 528.49)
+[07:56:38] [Render thread/INFO]: OS: Windows 10 (10.0)
+[07:56:38] [Render thread/INFO]: Replacing search trees with 'JEI' provider
+[07:56:38] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[07:56:38] [Render thread/INFO]: Saving config file: D:\Games\Minecraft\ATLauncher\instances\TFM\config\jei\jei-client.ini
+[07:56:38] [Render thread/INFO]: Invalidating pack caches
+[07:56:38] [Render thread/INFO]: Reloading ResourceManager: Blur dummy resource pack, Default, Mod Resources
+[07:56:38] [modloading-worker-0/WARN]: Configuration file D:\Games\Minecraft\ATLauncher\instances\TFM\config\jade-addons.toml is not correct. Correcting
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory.sneakShowAmount was corrected from null to its default, 54. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory.normalShowAmount was corrected from null to its default, 9. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory.showItemPreLine was corrected from null to its default, 9. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory.blacklist was corrected from null to its default, [refinedstorage:disk_drive]. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key inventory.bypassLockedContainer was corrected from null to its default, false. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key customContainerName was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key customContainerName.onlyShowVanilla was corrected from null to its default, false. 
+[07:56:38] [modloading-worker-0/WARN]: Incorrect key customContainerName.blacklist was corrected from null to its default, [thermal]. 
+[07:56:38] [Worker-ResourceReload-3/INFO]: Loading Open Parties and Claims!
+[07:56:39] [Forge Version Check/INFO]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.19.2/dev/updates.json
+[07:56:39] [Worker-ResourceReload-9/INFO]: Loading Xaero's World Map - Stage 1/2
+[07:56:39] [Worker-ResourceReload-5/INFO]: Loading Xaero's Minimap - Stage 1/2
+[07:56:40] [Forge Version Check/INFO]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.2 Target: null
+[07:56:40] [Forge Version Check/INFO]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTuGit/Ksyxis/main/forge_updater.json
+[07:56:40] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2336!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.10.jar%2390!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.10.jar%2390!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2336!/:?]
+	... 6 more
+[07:56:40] [Forge Version Check/INFO]: [sodiumextra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[07:56:40] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[07:56:40] [Forge Version Check/INFO]: [sodiumextra] Found status: UP_TO_DATE Current: 0.4.18+mc1.18.2-build.86 Target: null
+[07:56:40] [Forge Version Check/INFO]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[07:56:40] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[07:56:40] [Render thread/INFO]: Xaero's Minimap: Open Parties And Claims found!
+[07:56:40] [Render thread/INFO]: No Optifine!
+[07:56:40] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[07:56:40] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[07:56:40] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[07:56:40] [Render thread/INFO]: New world map region cache hash code: -1414815205
+[07:56:40] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[07:56:41] [Render thread/INFO]: Xaero's WorldMap Mod: Open Parties And Claims found!
+[07:56:41] [Render thread/INFO]: No Optifine!
+[07:56:41] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[07:56:41] [Render thread/INFO]: Xaero's World Map: Iris found!
+[07:56:41] [Forge Version Check/INFO]: [canary] Found status: AHEAD Current: 0.2.3 Target: null
+[07:56:41] [Forge Version Check/INFO]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
+[07:56:41] [Worker-ResourceReload-9/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[07:56:41] [Worker-ResourceReload-9/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[07:56:41] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headset Earphone (HyperX Virtual Surround Sound)
+[07:56:41] [Render thread/INFO]: Sound engine started
+[07:56:41] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[07:56:41] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[07:56:41] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2336!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.10.jar%2390!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.10.jar%2390!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2336!/:?]
+	... 6 more
+[07:56:41] [Forge Version Check/INFO]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[07:56:41] [Forge Version Check/INFO]: [betterf3] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[07:56:41] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07:56:42] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[07:56:42] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/paintings.png-atlas
+[07:56:42] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[07:56:42] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[07:56:42] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[07:56:42] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[07:56:42] [Render thread/WARN]: Shader cache needs invalidated. Reason: Resource Pack Reload
+[07:56:42] [Render thread/WARN]: Shader cache invalidated!
+[07:56:42] [Render thread/WARN]: Shader cache needs invalidated. Reason: Title Screen Created.
+[07:56:42] [Render thread/WARN]: Shader cache invalidated!
+[07:56:42] [Render thread/INFO]: Lightspeed: Launch took 14s
+[07:56:42] [Render thread/WARN]: Game took 14.138 seconds to start
+[07:56:42] [Render thread/WARN]: Shader cache needs invalidated. Reason: Iris Created New Pipeline
+[07:56:42] [Render thread/WARN]: Shader cache invalidated!
+[07:56:42] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[07:56:42] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 40.2.10 Target: null
+[07:56:56] [Render thread/INFO]: Found new data pack reblured, loading it automatically
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [openpac-parties, about, player] and [openpac-parties, about, profile] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:56:57] [Render thread/WARN]: Ambiguity between arguments [openpac-parties, about, profile] and [openpac-parties, about, player] with inputs: [Player, 0123]
+[07:56:57] [Render thread/INFO]: Loaded 7 recipes
+[07:56:57] [Render thread/INFO]: Loaded 1141 advancements
+[07:56:57] [Render thread/WARN]: Datapack reload took 0.7666756 seconds.
+[07:56:57] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:56:57] [Server thread/INFO]: Starting integrated minecraft server version 1.18.2
+[07:56:57] [Server thread/INFO]: Generating keypair
+[07:56:57] [Server thread/WARN]: Configuration file D:\Games\Minecraft\ATLauncher\instances\TFM\saves\New World\serverconfig\jei-server.toml is not correct. Correcting
+[07:56:57] [Server thread/WARN]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Configuration file D:\Games\Minecraft\ATLauncher\instances\TFM\saves\New World\serverconfig\forge-server.toml is not correct. Correcting
+[07:56:57] [Server thread/WARN]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.skipEmptyShapelessCheck was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[07:56:57] [Server thread/WARN]: Configuration file D:\Games\Minecraft\ATLauncher\instances\TFM\saves\New World\serverconfig\openpartiesandclaims-server.toml is not correct. Correcting
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.defaultLanguage was corrected from null to its default, en_us. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.autosaveInterval was corrected from null to its default, 10. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.playerSubConfigLimit was corrected from null to its default, 64. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.permissionSystem was corrected from null to its default, ftb_ranks. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.primaryPartySystem was corrected from null to its default, ftb_teams. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.enabled was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyMembers was corrected from null to its default, 64. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyAllies was corrected from null to its default, 64. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyInvites was corrected from null to its default, 16. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.partyExpirationTime was corrected from null to its default, 168. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.parties.partyExpirationCheckInterval was corrected from null to its default, 360. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.enabled was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsExpirationTime was corrected from null to its default, 8760. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsExpirationCheckInterval was corrected from null to its default, 360. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsConvertExpiredClaims was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaims was corrected from null to its default, 500. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimForceloads was corrected from null to its default, 10. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimsPermission was corrected from null to its default, xaero.pac_max_claims. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimForceloadsPermission was corrected from null to its default, xaero.pac_max_forceloads. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.serverClaimPermission was corrected from null to its default, xaero.pac_server_claims. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.adminModePermission was corrected from null to its default, xaero.pac_admin_mode. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.maxClaimDistance was corrected from null to its default, 5. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.claimableDimensionsListType was corrected from null to its default, ALL_BUT. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.claimableDimensionsList was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.allowExistingClaimsInUnclaimableDimensions was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.allowExistingForceloadsInUnclaimableDimensions was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.claimsSynchronization was corrected from null to its default, ALL. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.friendlyChunkProtectedEntityListType was corrected from null to its default, ALL_BUT. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.friendlyChunkProtectedEntityList was corrected from null to its default, [minecraft:boat]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.hostileChunkProtectedEntityListType was corrected from null to its default, ONLY. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.hostileChunkProtectedEntityList was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.blockProtectionExceptionList was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityProtectionExceptionList was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityClaimBarrierList was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.forcedBlockProtectionExceptionList was corrected from null to its default, [minecraft:crafting_table]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.blockProtectionOptionalExceptionGroups was corrected from null to its default, [Controls{minecraft:lever, #minecraft:buttons}, Doors{#minecraft:doors, #minecraft:fence_gates, #forge:fence_gates, #minecraft:trapdoors}, Chests{minecraft:chest, minecraft:trapped_chest, #forge:chests/wooden}, Barrels{minecraft:barrel, #forge:barrels}, Ender_Chests{minecraft:ender_chest, #forge:chests/ender}, Shulker_Boxes{#minecraft:shulker_boxes}, Furnaces{minecraft:furnace, minecraft:blast_furnace, minecraft:smoker}, Hoppers{minecraft:hopper}, Dispenser-like{minecraft:dispenser, minecraft:dropper}, Anvils{#minecraft:anvil}, Beds{#minecraft:beds}, Beacons{minecraft:beacon}, Enchanting_Tables{minecraft:enchanting_table}, break$Crops{#minecraft:crops}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.forcedEntityProtectionExceptionList was corrected from null to its default, [minecraft:minecart]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityProtectionOptionalExceptionGroups was corrected from null to its default, [Traders{minecraft:villager, minecraft:wandering_trader}, hand$Item_Frames{minecraft:item_frame}, break$Livestock{minecraft:cow, minecraft:mooshroom, minecraft:sheep, minecraft:chicken, minecraft:pig, minecraft:rabbit, minecraft:goat}, Armor_Stands{minecraft:armor_stand}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.forcedEntityClaimBarrierList was corrected from null to its default, [minecraft:falling_block, supplementaries:slingshot_projectile]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityClaimBarrierOptionalGroups was corrected from null to its default, [Players{minecraft:player}, Ender_Pearls{minecraft:ender_pearl}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entitiesAllowedToGrief was corrected from null to its default, [minecraft:sheep]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entitiesAllowedToGriefEntities was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entitiesAllowedToGriefDroppedItems was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.nonBlockGriefingMobs was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityGriefingMobs was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.droppedItemGriefingMobs was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.blockAccessEntityGroups was corrected from null to its default, [Villagers{minecraft:villager}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityAccessEntityGroups was corrected from null to its default, [Zombies{minecraft:zombie, minecraft:zombie_villager, minecraft:husk, minecraft:drowned}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.droppedItemAccessEntityGroups was corrected from null to its default, [Villagers{minecraft:villager}, Piglins{minecraft:piglin}, Foxes{minecraft:fox}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.staticFakePlayers was corrected from null to its default, [[IntegratedTunnels]]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.staticFakePlayerClassExceptions was corrected from null to its default, [dan200.computercraft.shared.turtle.core.TurtlePlayer]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.additionalBannedItemsList was corrected from null to its default, [supplementaries:slingshot]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.itemUseProtectionExceptionList was corrected from null to its default, [minecraft:firework_rocket]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.itemUseProtectionOptionalExceptionGroups was corrected from null to its default, [Books{minecraft:written_book, minecraft:writable_book}]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.completelyDisabledItemInteractions was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.completelyDisabledBlockInteractions was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.completelyDisabledEntityInteractions was corrected from null to its default, []. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.completelyDisableFrostWalking was corrected from null to its default, false. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.reducedBoatEntityCollisions was corrected from null to its default, true. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.playerConfigurablePlayerConfigOptions was corrected from null to its default, [claims.protectClaimedChunks, claims.forceload.enabled, claims.name, claims.color, claims.protection.fromParty, claims.protection.fromAllyParties, claims.protection.buttonsFromProjectiles, claims.protection.targetsFromProjectiles, claims.protection.platesFromPlayers, claims.protection.platesFromMobs, claims.protection.platesFromOther, claims.protection.tripwireFromPlayers, claims.protection.tripwireFromMobs, claims.protection.tripwireFromOther, claims.protection.cropTrample, claims.protection.playerLightning, claims.protection.fromFrostWalking, claims.protection.entitiesFromPlayers, claims.protection.entitiesFromMobs, claims.protection.entitiesFromOther, claims.protection.entitiesRedirect, claims.protection.entitiesFromExplosions, claims.protection.entitiesFromFire, claims.protection.netherPortalsPlayers, claims.protection.netherPortalsMobs, claims.protection.netherPortalsOther, claims.protection.fluidBarrier, claims.protection.dispenserBarrier, claims.protection.pistonBarrier, claims.protection.itemTossPlayers, claims.protection.itemTossMobs, claims.protection.itemTossOther, claims.protection.itemTossRedirect, claims.protection.mobLoot, claims.protection.playerDeathLoot, claims.protection.itemPickupPlayers, claims.protection.itemPickupMobs, claims.protection.itemPickupRedirect, claims.protection.xpPickup, claims.protection.raids, claims.protection.naturalSpawnHostile, claims.protection.naturalSpawnFriendly, claims.protection.spawnersHostile, claims.protection.spawnersFriendly, parties.name, parties.shareLocationWithParty, parties.shareLocationWithMutualAllyParties, parties.receiveLocationsFromParty, parties.receiveLocationsFromMutualAllyParties, claims.protection.exceptionGroups.block.interact.Controls, claims.protection.exceptionGroups.block.interact.Doors, claims.protection.exceptionGroups.block.interact.Chests, claims.protection.exceptionGroups.block.interact.Barrels, claims.protection.exceptionGroups.block.interact.Ender_Chests, claims.protection.exceptionGroups.block.interact.Shulker_Boxes, claims.protection.exceptionGroups.block.interact.Furnaces, claims.protection.exceptionGroups.block.interact.Hoppers, claims.protection.exceptionGroups.block.interact.Dispenser-like, claims.protection.exceptionGroups.block.interact.Anvils, claims.protection.exceptionGroups.block.interact.Beds, claims.protection.exceptionGroups.block.interact.Beacons, claims.protection.exceptionGroups.block.interact.Enchanting_Tables, claims.protection.exceptionGroups.block.break.Crops, claims.protection.exceptionGroups.entity.interact.Traders, claims.protection.exceptionGroups.entity.handInteract.Item_Frames, claims.protection.exceptionGroups.entity.interact.Armor_Stands, claims.protection.exceptionGroups.entity.break.Livestock, claims.protection.exceptionGroups.entity.blockAccess.Villagers, claims.protection.exceptionGroups.entity.entityAccess.Zombies, claims.protection.exceptionGroups.entity.droppedItemAccess.Villagers, claims.protection.exceptionGroups.entity.droppedItemAccess.Piglins, claims.protection.exceptionGroups.entity.droppedItemAccess.Foxes, claims.protection.exceptionGroups.item.interact.Books, claims.protection.exceptionGroups.entity.barrier.Ender_Pearls, /*remove comment to enable*/claims.protection.exceptionGroups.entity.barrier.Players]. 
+[07:56:57] [Server thread/WARN]: Incorrect key serverConfig.opConfigurablePlayerConfigOptions was corrected from null to its default, [claims.bonusChunkClaims, claims.bonusChunkForceloads]. 
+[07:56:57] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
+[07:56:57] [Server thread/INFO]: Loading server info!
+[07:56:57] [Server thread/INFO]: Loading player configs...
+[07:56:57] [Server thread/INFO]: Loaded player configs!
+[07:56:57] [Server thread/INFO]: Loading parties...
+[07:56:57] [Server thread/INFO]: Loaded parties!
+[07:56:57] [Server thread/INFO]: Fixing party inconsistencies...
+[07:56:57] [Server thread/INFO]: Registered party system for OPAC: default
+[07:56:57] [Server thread/INFO]: Registered permission system for OPAC: permission_api
+[07:56:57] [Server thread/WARN]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[07:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:57:01] [Server thread/INFO]: Not the long loadi-
+[07:57:01] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[07:57:01] [Server thread/INFO]: Loading claims...
+[07:57:01] [Server thread/INFO]: Loaded claims in 1ms
+[07:57:01] [Server thread/WARN]: The configured permission system "ftb_ranks" isn't registered!
+[07:57:01] [Server thread/INFO]: Configured OPAC to use the following permission system: permission_api
+[07:57:01] [Server thread/WARN]: The configured primary party system "ftb_teams" isn't registered!
+[07:57:01] [Server thread/INFO]: Configured OPAC to use the following party system as primary: default
+[07:57:01] [Render thread/INFO]: Time elapsed: 0 ms
+[07:57:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[07:57:01] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[07:57:01] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[07:57:02] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[07:57:02] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31f937c1
+[07:57:02] [Server thread/INFO]: SpeeeDCraft[local:E:c7080a76] logged in with entity id 17 at (4.5, 71.0, -7.5)
+[07:57:02] [Server thread/INFO]: SpeeeDCraft joined the game
+[07:57:02] [Server thread/INFO]: Syncing config to SpeeeDCraft (9d9c39ad-4d3a-4e61-91c7-3d327f5dcf51)
+[07:57:02] [Server thread/INFO]: Updating all forceload tickets for 9d9c39ad-4d3a-4e61-91c7-3d327f5dcf51
+[07:57:02] [Render thread/INFO]: New world map session initialized!
+[07:57:02] [Render thread/INFO]: New minimap session initialized!
+[07:57:02] [Render thread/INFO]: Started 10 worker threads
+[07:57:02] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedInEvent
+[07:57:02] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[07:57:02] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[07:57:02] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[07:57:02] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[07:57:02] [Render thread/INFO]: Starting JEI...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 2.034 ms
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jade:main ...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jade:main took 9.100 ?s
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:debug took 8.000 ?s
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:forge ...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:forge took 6.200 ?s
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[07:57:02] [Render thread/INFO]: Registering item subtypes: jei:internal took 4.900 ?s
+[07:57:02] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[07:57:02] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 18.10 ?s
+[07:57:02] [Render thread/INFO]: Registering fluid subtypes: jade:main ...
+[07:57:02] [Render thread/INFO]: Registering fluid subtypes: jade:main took 5.000 ?s
+[07:57:02] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 1.603 ms
+[07:57:03] [Render thread/INFO]: Registering fluid subtypes: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering fluid subtypes: jei:forge took 13.20 ?s
+[07:57:03] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 11.50 ?s
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:minecraft took 33.14 ms
+[07:57:03] [Render thread/INFO]: Registering ingredients: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering ingredients: jade:main took 14.00 ?s
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:debug took 29.80 ?s
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:forge took 3.500 ?s
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering ingredients: jei:internal took 3.500 ?s
+[07:57:03] [Render thread/INFO]: Building ingredient list...
+[07:57:03] [Render thread/INFO]: Building ingredient list took 4.623 ms
+[07:57:03] [Render thread/INFO]: Building ingredient filter...
+[07:57:03] [Render thread/INFO]: Adding 1352 ingredients
+[07:57:03] [Render thread/INFO]: Added 1352 ingredients
+[07:57:03] [Render thread/INFO]: Building ingredient filter took 163.1 ms
+[07:57:03] [Render thread/INFO]: Building bookmarks...
+[07:57:03] [Render thread/INFO]: Building bookmarks took 9.999 ms
+[07:57:03] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering categories: jei:minecraft took 31.03 ms
+[07:57:03] [Render thread/INFO]: Registering categories: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering categories: jade:main took 19.60 ?s
+[07:57:03] [Render thread/INFO]: Registering categories: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering categories: jei:debug took 13.40 ?s
+[07:57:03] [Render thread/INFO]: Registering categories: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering categories: jei:forge took 14.80 ?s
+[07:57:03] [Render thread/INFO]: Registering categories: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering categories: jei:internal took 1.915 ms
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 4.396 ms
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 12.40 ?s
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 4.400 ?s
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:forge took 3.900 ?s
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 3.700 ?s
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 521.6 ?s
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jade:main took 7.300 ?s
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 8.800 ?s
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:forge took 5.200 ?s
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 3.500 ?s
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 29.90 ?s
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jade:main took 6.900 ?s
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:debug took 4.800 ?s
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:forge took 3.600 ?s
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering advanced plugins: jei:internal took 3.200 ?s
+[07:57:03] [Render thread/INFO]: Building recipe registry...
+[07:57:03] [Render thread/INFO]: Building recipe registry took 17.19 ms
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:minecraft took 101.4 ms
+[07:57:03] [Render thread/INFO]: Registering recipes: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering recipes: jade:main took 31.10 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:debug took 33.90 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:forge took 29.71 ms
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering recipes: jei:internal took 9.300 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 3.179 ms
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 15.10 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 4.700 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge took 3.300 ?s
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 3.300 ?s
+[07:57:03] [Render thread/INFO]: Building runtime...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 22.14 ms
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jade:main took 7.100 ?s
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:debug took 27.50 ?s
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:forge ...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:forge took 2.700 ?s
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[07:57:03] [Render thread/INFO]: Registering gui handlers: jei:internal took 14.21 ms
+[07:57:03] [Render thread/INFO]: Building runtime took 73.58 ms
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:minecraft took 9.600 ?s
+[07:57:03] [Render thread/INFO]: Sending Runtime: jade:main ...
+[07:57:03] [Render thread/INFO]: Sending Runtime: jade:main took 3.100 ?s
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:debug took 5.700 ?s
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:forge ...
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:forge took 1.500 ?s
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[07:57:03] [Render thread/INFO]: Sending Runtime: jei:internal took 9.000 ?s
+[07:57:03] [Render thread/INFO]: Starting JEI took 554.0 ms
+[07:57:03] [Render thread/INFO]: Received config from the server: {"minecraft:command_block":true}
+[07:57:03] [Render thread/INFO]: Loaded 0 advancements
+[07:57:03] [Render thread/INFO]: Reloading entity icon resources...
+[07:57:03] [Render thread/INFO]: Done!
+[07:57:04] [Render thread/WARN]: Time from main menu to in-game was 7.486338 seconds
+[07:57:04] [Render thread/WARN]: Total time to load game and open world was 21.624338 seconds
+[07:57:04] [Server thread/INFO]: Saving and pausing game...
+[07:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:57:11] [Server thread/INFO]: Saving and pausing game...
+[07:57:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:57:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:57:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:57:18] [Render thread/INFO]: Stopping worker threads
+[07:57:18] [Render thread/INFO]: Started 10 worker threads
+[07:57:18] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[07:57:22] [Render thread/INFO]: Stopping worker threads
+[07:57:22] [Render thread/INFO]: Started 10 worker threads
+[07:57:22] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[07:57:26] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[07:57:58] [Server thread/INFO]: Changing view distance to 32, from 12
+[07:57:58] [Render thread/INFO]: Stopping worker threads
+[07:57:58] [Render thread/INFO]: Started 10 worker threads
+[07:57:58] [Server thread/INFO]: Changing simulation distance to 5, from 12
+[07:58:34] [Server thread/INFO]: Saving and pausing game...
+[07:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:58:59] [Server thread/INFO]: Saving and pausing game...
+[07:58:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:59:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:59:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:59:05] [Server thread/INFO]: Saving and pausing game...
+[07:59:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:59:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:59:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:59:20] [Server thread/INFO]: Saving and pausing game...
+[07:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:59:28] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[07:59:47] [Server thread/INFO]: Saving and pausing game...
+[07:59:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:59:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:59:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07:59:52] [Server thread/INFO]: Saving and pausing game...
+[07:59:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07:59:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07:59:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:19] [Server thread/INFO]: Saving and pausing game...
+[08:00:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:00:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:00:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:21] [Server thread/INFO]: Saving and pausing game...
+[08:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:21] [Render thread/INFO]: Finalizing world map session...
+[08:00:21] [Thread-6/INFO]: World map cleaned normally!
+[08:00:21] [Render thread/INFO]: World map session finalized.
+[08:00:21] [Render thread/INFO]: Minimap session finalized.
+[08:00:21] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[08:00:21] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[08:00:21] [Render thread/INFO]: Stopping JEI
+[08:00:21] [Server thread/INFO]: SpeeeDCraft lost connection: Disconnected
+[08:00:21] [Server thread/INFO]: SpeeeDCraft left the game
+[08:00:21] [Server thread/INFO]: Updating all forceload tickets for 9d9c39ad-4d3a-4e61-91c7-3d327f5dcf51
+[08:00:21] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:00:21] [Server thread/INFO]: Stopping server
+[08:00:21] [Server thread/INFO]: Saving players
+[08:00:21] [Server thread/INFO]: Saving worlds
+[08:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:00:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:00:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:00:23] [Server thread/INFO]: Stopping IO worker...
+[08:00:23] [Server thread/INFO]: Stopped IO worker!
+[08:00:23] [Render thread/INFO]: Stopping worker threads
+[08:00:23] [Render thread/WARN]: Shader cache needs invalidated. Reason: Title Screen Created.
+[08:00:23] [Render thread/WARN]: Shader cache invalidated!
+[08:00:24] [Render thread/INFO]: Stopping!
