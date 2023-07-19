@@ -25,3 +25,4 @@ minecraftinstance.json
 config/jei/
 .curseclient
 config/oculus.properties
+rhino.local.properties
