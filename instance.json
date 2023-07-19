@@ -26,6 +26,7 @@
     },
     "requiredMemory": 0,
     "requiredPermGen": 0,
+    "useJavaProvidedByMinecraft": false,
     "isDev": false,
     "isPlayable": true,
     "assetsMapToResources": false,
@@ -34,8 +35,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1689728187805,
-    "numPlays": 13
+    "lastPlayed": 1689729588286,
+    "numPlays": 21
   },
   "id": "1.18.2",
   "complianceLevel": 1,
