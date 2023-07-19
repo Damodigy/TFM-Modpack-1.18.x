@@ -26,3 +26,5 @@ config/jei/
 .curseclient
 config/oculus.properties
 rhino.local.properties
+servers.dat_old
+servers.dat
