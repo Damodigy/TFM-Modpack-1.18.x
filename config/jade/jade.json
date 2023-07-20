@@ -10,7 +10,7 @@
     "ttsMode": "PRESS",
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10,
-    "fluidMode": "ANY",
+    "fluidMode": "SOURCE_ONLY",
     "reachDistance": 0.0,
     "debug": false,
     "hintOverlayToggle": true
