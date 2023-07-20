@@ -44,6 +44,6 @@ defaultCaveModeType:1
 biomeBlending:true
 pacPlayers:true
 displayClaims:true
-claimsFillOpacity:46
+claimsFillOpacity:50
 claimsBorderOpacity:80
 globalVersion:1
