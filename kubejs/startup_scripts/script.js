@@ -32,3 +32,18 @@ onEvent('block.registry', event => {
 	// Register new blocks here
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
 })
+
+onEvent('block.modification', event => {
+	event.modify('tfc:grass_path/loam', block => {
+		block.speedFactor = 1.3
+	})
+	event.modify('tfc:grass_path/silt', block => {
+		block.speedFactor = 1.3
+	})
+	event.modify('tfc:grass_path/silty_loam', block => {
+		block.speedFactor = 1.3
+	})
+	event.modify('tfc:grass_path/sandy_loam', block => {
+		block.speedFactor = 1.3
+	})
+})

@@ -31,6 +31,7 @@ onEvent('block.right_click', event => {
 		let count = Math.floor(Math.random() * 3 + 1)
 		event.block.popItem(count + 'x clay_ball')
 	}
+
 	// Без травы
 
 	if (event.block.id == 'tfc:clay/silty_loam' && event.item.tags[0] == "tfc:shovels") {
