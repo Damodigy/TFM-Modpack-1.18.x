@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"all": "kubejs:block/andesite_path",
-	}
-
+  "credit": "Made with Blockbench",
+  "texture_size": [32, 32],
+  "model": "dirt_path",
+  "model": "dirt_path",
+  "textures": {
+    "all": "kubejs:block/andesite_path"
+  }
 }
