@@ -1,3 +1,6 @@
+const MaterialJS = java("dev.latvian.mods.kubejs.block.MaterialJS")
+const Material = java('net.minecraft.world.level.material.Material')
+const SoundType = java('net.minecraft.world.level.block.SoundType')
 // priority: 0
 
 settings.logAddedRecipes = true
@@ -7,9 +10,197 @@ settings.logErroringRecipes = true
 
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
+amethystMaterial = new MaterialJS('stone_path', Material.STONE, SoundType.STONE)
+/*
+onEvent('entity.attack', event => {
+	  event.player.tell(event.entity.id) 
+}); */
+
 onEvent('block.right_click', event => {
 
-	//  event.player.tell(event.block.id)  Дебаг Инструмент
+	// 	Дебаг тул	    event.player.tell(event.block.id);
+	// 	Дебаг тул		event.player.tell(event.item.tags[4]);
+	let flag_pickaxe = false;
+	if (event.block.id == "tfc:rock/cobble/andesite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/andesite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:andesite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/basalt" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/basalt") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:basalt_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/chalk" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/chalk") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:chalk_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/chert" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/chert") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:chert_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/claystone" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/claystone") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:claystone_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/conglomerate" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/conglomerate") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:conglomerate_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/dacite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/dacite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:dacite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/diorite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/diorite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:diorite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/dolomite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/dolomite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:dolomite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/gabbro" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/gabbro") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:gabbro_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/gneiss" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/gneiss") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:gneiss_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/granite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/granite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:granite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/limestone" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/limestone") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:limestone_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/marble" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/marble") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:marble_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/phyllite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/phyllite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:phyllite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/quartzite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/quartzite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:quartzite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/rhyolite" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/rhyolite") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:rhyolite_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/schist" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/schist") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:schist_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/shale" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/shale") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:shale_path');
+	} else {
+		flag_pickaxe = false;
+	}
+	if (event.block.id == "tfc:rock/cobble/slate" && event.item.tags[2] == "forge:pickaxes") {
+		flag_pickaxe = true;
+	}
+	if ((event.block.id == "tfc:rock/cobble/slate") && (flag_pickaxe = true) && (event.item.tags[4] == "forge:hammers")) {
+		event.player.swing;
+		event.block.set('kubejs:slate_path');
+	} else {
+		flag_pickaxe = false;
+	}
 
 	if (event.block.id == 'tfc:clay_grass/silty_loam' && event.item.tags[0] == "tfc:shovels") {
 		event.block.set('tfc:grass_path/silty_loam')
@@ -61,20 +252,71 @@ onEvent('block.right_click', event => {
 
 
 onEvent('recipes', event => {
+
 	// Удаление рецептов для Эр
+
+	event.remove({
+		output: 'minecraft:cauldron',
+		mod: 'minecraft',
+	});
+
+	event.remove({
+		output: 'minecraft:crossbow',
+		mod: 'minecraft',
+	});
+
+	event.remove({
+		output: 'minecraft:tripwire_hook',
+		mod: 'minecraft',
+	});
+
 	event.remove({
 		output: 'immersiveengineering:treated_wood_horizontal',
 		mod: 'immersiveengineering',
 	});
+
 	event.remove({
 		output: 'create:mechanical_arm',
 		mod: 'create',
 	});
+
 	event.remove({
 		output: 'create:rotation_speed_controller',
 		mod: 'create',
 	});
 
+	event.remove({
+		output: 'create:andesite_alloy',
+		mod: 'create',
+	});
+
+	event.remove({
+		output: '#minecraft:beds',
+		mod: 'minecraft',
+	});
+
+	event.remove({
+		output: 'railways:track_acacia',
+	});
+
+	// Рецепты Create
+
+	event.shaped('create:andesite_alloy', [
+		'DA ',
+		'AD ',
+		'   '
+	], {
+		D: 'create:zinc_nugget',
+		A: 'tfc:rock/raw/andesite'
+	});
+	event.shaped('create:andesite_alloy', [
+		'DA ',
+		'AD ',
+		'   '
+	], {
+		D: 'minecraft:iron_nugget',
+		A: 'tfc:rock/raw/andesite'
+	});
 	event.shaped('create:mechanical_arm', [
 		'BBD',
 		'B  ',
@@ -94,15 +336,6 @@ onEvent('recipes', event => {
 		B: 'create:brass_sheet',
 		S: 'create:brass_casing',
 		A: 'create:precision_mechanism'
-	});
-
-	event.remove({
-		output: '#minecraft:beds',
-		mod: 'minecraft',
-	});
-
-	event.remove({
-		output: 'railways:track_acacia',
 	});
 
 	// Рецепты последовательный Create
@@ -304,8 +537,78 @@ onEvent('recipes', event => {
 		],
 		loops: 1
 	});
-	// Рецепты молота Create
+	// Рецепты миксера Create
 
+	event.custom({
+		type: 'create:mixing',
+		ingredients: [{
+			item: 'tfc:rock/cobble/andesite',
+			count: 1,
+		}, {
+			item: 'minecraft:iron_nugget',
+			count: 1,
+		}],
+		results: [{
+			fluid: 'tfc_metallum:metal/andesite_alloy',
+			amount: 600
+		}],
+		processingTime: 100,
+		heatRequirement: "superheated",
+	});
+
+
+	event.custom({
+		type: 'create:mixing',
+		ingredients: [{
+			item: 'tfc:rock/cobble/andesite',
+			count: 1,
+		}, {
+			item: 'create:zinc_nugget',
+			count: 1,
+		}],
+		results: [{
+			fluid: 'tfc_metallum:metal/andesite_alloy',
+			amount: 600
+		}],
+		processingTime: 100,
+		heatRequirement: "superheated",
+	});
+
+	event.custom({
+		type: 'create:mixing',
+		ingredients: [{
+			item: 'tfc:rock/cobble/andesite',
+			count: 1,
+		}, {
+			fluid: 'tfc:metal/wrought_iron',
+			amount: 10,
+		}],
+		results: [{
+			fluid: 'tfc_metallum:metal/andesite_alloy',
+			amount: 600
+		}],
+		processingTime: 100,
+		heatRequirement: "superheated",
+	});
+
+	event.custom({
+		type: 'create:mixing',
+		ingredients: [{
+			item: 'tfc:rock/cobble/andesite',
+			count: 1,
+		}, {
+			fluid: 'tfc:metal/zinc',
+			amount: 10,
+		}],
+		results: [{
+			fluid: 'tfc_metallum:metal/andesite_alloy',
+			amount: 600
+		}],
+		processingTime: 100,
+		heatRequirement: "superheated",
+	});
+
+	// Рецепты молота Create
 	event.custom({
 		type: 'create:compacting',
 		ingredients: [{
@@ -318,6 +621,19 @@ onEvent('recipes', event => {
 		}],
 		processingTime: 100,
 		heatRequirement: "superheated",
+	});
+
+	event.custom({
+		type: 'create:compacting',
+		ingredients: [{
+			fluid: 'tfc_metallum:metal/andesite_alloy',
+			amount: 1000,
+		}],
+		results: [{
+			item: 'create:andesite_alloy',
+			count: 1,
+		}],
+		processingTime: 100,
 	});
 
 	event.custom({
