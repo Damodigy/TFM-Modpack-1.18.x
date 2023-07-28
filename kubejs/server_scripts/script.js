@@ -782,10 +782,10 @@ onEvent('recipes', event => {
 	event.custom({
 		type: 'create:crushing',
 		ingredients: [{
-			item: 'tfc:food/nixtamal'
+			item: 'firmalife:food/nixtamal'
 		}],
 		results: [{
-			item: 'tfc:food/masa_flour',
+			item: 'firmalife:food/masa_flour',
 			count: 1,
 		}]
 	});
@@ -832,7 +832,7 @@ onEvent('recipes', event => {
 	event.custom({
 		type: 'create:crushing',
 		ingredients: [{
-			item: 'tfc:fluxstone'
+			tag: 'tfc:fluxstone'
 		}],
 		results: [{
 			item: 'tfc:powder/flux',
