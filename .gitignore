@@ -83,3 +83,5 @@ config/sound_physics_remastered/soundphysics.properties
 config/xaerominimap.txt
 config/xaerominimap_entities.json
 config/xaeroworldmap.txt
+config/chiselsandbits-client-1.toml.bak
+config/chiselsandbits-common-1.toml.bak
