@@ -1,6 +1,6 @@
 onEvent('recipes', event => {
 	// Рецепты молота Create
-	
+	/*
 	event.custom({
 		type: 'create:pressing',
 		ingredient: [{
@@ -55,5 +55,5 @@ onEvent('recipes', event => {
 		processingTime: 1,
 	});
 
-
+*/
 });
