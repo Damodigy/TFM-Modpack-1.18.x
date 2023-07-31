@@ -11,3 +11,8 @@ onEvent('jei.hide.items', event => {
 	// event.hide('minecraft:cobblestone')
 })
 
+onEvent('client.generate_assets', event => {
+	const rename = (item, newName) => event.addLang(Item.of(item).item.getDescriptionId(), newName)
+
+	rename('create:andesite_casing', "Iron Casing")
+})

@@ -6,7 +6,7 @@ settings.logErroringRecipes = true
 console.info('Create Kube Js Script load succesful');
 
 onEvent('recipes', event => {
-
+    event.replaceInput('create:andesite_alloy', 'tfc:metal/ingot/wrought_iron');
     // Удаление рецептов Create
     event.remove({
         output: 'create:mechanical_arm',
@@ -19,32 +19,32 @@ onEvent('recipes', event => {
     });
 
     event.remove({
+        id:"create:crafting/kinetics/shaft"
+    });
+
+    event.remove({
+        output:"create:andesite_scaffolding",
+    });
+
+    event.remove({
+        output:"create:andesite_ladder",
+    });
+
+    event.remove({
+        output:"create:andesite_bars",
+    });
+
+    event.remove({
         output: 'create:andesite_alloy',
         mod: 'create',
     });
-    
+
     event.remove({
         output: 'railways:track_acacia',
     });
 
     // Рецепты Create
 
-    event.shaped('create:andesite_alloy', [
-        'DA ',
-        'AD ',
-        '   '
-    ], {
-        D: 'create:zinc_nugget',
-        A: 'tfc:rock/raw/andesite'
-    });
-    event.shaped('create:andesite_alloy', [
-        'DA ',
-        'AD ',
-        '   '
-    ], {
-        D: 'minecraft:iron_nugget',
-        A: 'tfc:rock/raw/andesite'
-    });
     event.shaped('create:mechanical_arm', [
         'BBD',
         'B  ',
@@ -64,5 +64,22 @@ onEvent('recipes', event => {
         B: 'create:brass_sheet',
         S: 'create:brass_casing',
         A: 'create:precision_mechanism'
+    });
+
+    event.custom({
+        type: "tfc:anvil",
+        input: {
+            "tag": "forge:ingots/wrought_iron"
+        },
+        result: {
+            item: "create:shaft",
+            count: 4
+        },
+        tier: 2,
+        rules: [
+            "bend_last",
+            "bend_last",
+            "draw_second_last",
+        ]
     });
 });
