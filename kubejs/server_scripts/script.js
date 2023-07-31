@@ -1,6 +1,6 @@
 const MaterialJS = java("dev.latvian.mods.kubejs.block.MaterialJS")
-const Material = java('net.minecraft.world.level.material.Material')
-const SoundType = java('net.minecraft.world.level.block.SoundType')
+//const Material = java('net.minecraft.world.level.material.Material')
+//const SoundType = java('net.minecraft.world.level.block.SoundType')
 // priority: 0
 
 settings.logAddedRecipes = true
@@ -10,7 +10,7 @@ settings.logErroringRecipes = true
 
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
-amethystMaterial = new MaterialJS('stone_path', Material.STONE, SoundType.STONE)
+// amethystMaterial = new MaterialJS('stone_path', Material.STONE, SoundType.STONE)
 /*
 onEvent('entity.attack', event => {
 	  event.player.tell(event.entity.id) 
